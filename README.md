@@ -24,8 +24,6 @@ To run the demo:
 2. Upload the `.h5` model files to the Colab session.
 3. Run all cells.
 
-## 📄 Documentation
-* [Full Thesis Report (PDF)](Tez_Raporu.pdf)
 
 ---
 **Author:** Esma Ece Yılmaz
